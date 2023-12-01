@@ -1,0 +1,19 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 9A\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 9A\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 9A\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 9A\Lab 9\obj\Debug\Lab 9A.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 9A\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 9A\Lab 9\obj\Debug\Lab 9.pdb
+C:\Users\marty\Documents\PG1\Test\Lab 9A\Lab 9\obj\Debug\Lab 9A.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Test\Lab 9A\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\marty\Documents\PG1\Test\Lab 9A\Lab 9\obj\Debug\Lab 9.pdb
+C:\Users\marty\Documents\PG1\Test\Lab 9A\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\marty\Documents\PG1\Test\Lab 9A\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\marty\Documents\PG1\Test\Lab 9A\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 9\Lab 9A\Lab 9\obj\Debug\Lab 9A.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 9\Lab 9A\Lab 9\obj\Debug\Lab 9A.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 9\Lab 9A\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 9\Lab 9A\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 9\Lab 9A\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 9\Lab 9A\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 9\Lab 9A\Lab 9\obj\Debug\Lab 9.pdb

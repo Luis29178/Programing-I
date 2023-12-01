@@ -1,0 +1,13 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\obj\Debug\Lab 6A.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\bin\Debug\Lab 6A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\obj\Debug\Lab 6A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\obj\Debug\Lab 6A.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 6\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 6\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 6\Lab 6A\Lab 6A\bin\Debug\Lab 6A.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 6\Lab 6A\Lab 6A\obj\Debug\Lab 6A.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 6\Lab 6A\Lab 6A\obj\Debug\Lab 6A.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 6\Lab 6A\Lab 6A\obj\Debug\Lab 6A.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 6\Lab 6A\Lab 6A\obj\Debug\Lab 6A.pdb

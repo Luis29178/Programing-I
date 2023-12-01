@@ -1,0 +1,14 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\bin\Debug\Lab 7A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\lab 7\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\lab 7\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\lab 7\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\lab 7\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\lab 7\Lab 7A\Lab 7A\bin\Debug\Lab 7A.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\lab 7\Lab 7A\Lab 7A\obj\Debug\Lab 7A.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\lab 7\Lab 7A\Lab 7A\obj\Debug\Lab 7A.pdb

@@ -1,0 +1,13 @@
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\bin\Debug\netcoreapp3.1\Turbo snake.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\bin\Debug\netcoreapp3.1\Turbo snake.deps.json
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\bin\Debug\netcoreapp3.1\Turbo snake.runtimeconfig.json
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\bin\Debug\netcoreapp3.1\Turbo snake.runtimeconfig.dev.json
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\bin\Debug\netcoreapp3.1\Turbo snake.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\bin\Debug\netcoreapp3.1\Turbo snake.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\obj\Debug\netcoreapp3.1\Turbo snake.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\obj\Debug\netcoreapp3.1\Turbo snake.AssemblyInfoInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\obj\Debug\netcoreapp3.1\Turbo snake.AssemblyInfo.cs
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\obj\Debug\netcoreapp3.1\Turbo snake.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\obj\Debug\netcoreapp3.1\Turbo snake.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\obj\Debug\netcoreapp3.1\Turbo snake.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Passion Poject\Turbo snake\Turbo snake\obj\Debug\netcoreapp3.1\Turbo snake.genruntimeconfig.cache

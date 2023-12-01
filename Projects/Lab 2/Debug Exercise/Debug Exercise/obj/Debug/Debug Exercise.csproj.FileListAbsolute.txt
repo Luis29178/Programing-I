@@ -1,0 +1,27 @@
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+D:\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+D:\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+D:\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+D:\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+D:\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+D:\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+D:\OneDrive - Full Sail University\Visual Studios\Projects\Lab 2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb

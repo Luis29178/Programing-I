@@ -1,0 +1,7 @@
+C:\Full Sail\Classes\PG1\201903\Day 5\Day 5\bin\Debug\Day 5.exe.config
+C:\Full Sail\Classes\PG1\201903\Day 5\Day 5\bin\Debug\Day 5.exe
+C:\Full Sail\Classes\PG1\201903\Day 5\Day 5\bin\Debug\Day 5.pdb
+C:\Full Sail\Classes\PG1\201903\Day 5\Day 5\obj\Debug\Day 5.csprojAssemblyReference.cache
+C:\Full Sail\Classes\PG1\201903\Day 5\Day 5\obj\Debug\Day 5.csproj.CoreCompileInputs.cache
+C:\Full Sail\Classes\PG1\201903\Day 5\Day 5\obj\Debug\Day 5.exe
+C:\Full Sail\Classes\PG1\201903\Day 5\Day 5\obj\Debug\Day 5.pdb

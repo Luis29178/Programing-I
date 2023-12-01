@@ -1,0 +1,13 @@
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\bin\Debug\netcoreapp3.1\Lab 1.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\bin\Debug\netcoreapp3.1\Lab 1.deps.json
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\bin\Debug\netcoreapp3.1\Lab 1.runtimeconfig.json
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\bin\Debug\netcoreapp3.1\Lab 1.runtimeconfig.dev.json
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\bin\Debug\netcoreapp3.1\Lab 1.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\bin\Debug\netcoreapp3.1\Lab 1.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\obj\Debug\netcoreapp3.1\Lab 1.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\obj\Debug\netcoreapp3.1\Lab 1.AssemblyInfoInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\obj\Debug\netcoreapp3.1\Lab 1.AssemblyInfo.cs
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\obj\Debug\netcoreapp3.1\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\obj\Debug\netcoreapp3.1\Lab 1.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\obj\Debug\netcoreapp3.1\Lab 1.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\Projecst\Lab 1\obj\Debug\netcoreapp3.1\Lab 1.genruntimeconfig.cache

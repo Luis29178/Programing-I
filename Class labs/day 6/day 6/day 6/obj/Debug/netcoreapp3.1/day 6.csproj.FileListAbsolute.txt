@@ -1,0 +1,13 @@
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\bin\Debug\netcoreapp3.1\day 6.exe
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\bin\Debug\netcoreapp3.1\day 6.deps.json
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\bin\Debug\netcoreapp3.1\day 6.runtimeconfig.json
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\bin\Debug\netcoreapp3.1\day 6.runtimeconfig.dev.json
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\bin\Debug\netcoreapp3.1\day 6.dll
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\bin\Debug\netcoreapp3.1\day 6.pdb
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\obj\Debug\netcoreapp3.1\day 6.csprojAssemblyReference.cache
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\obj\Debug\netcoreapp3.1\day 6.AssemblyInfoInputs.cache
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\obj\Debug\netcoreapp3.1\day 6.AssemblyInfo.cs
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\obj\Debug\netcoreapp3.1\day 6.csproj.CoreCompileInputs.cache
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\obj\Debug\netcoreapp3.1\day 6.dll
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\obj\Debug\netcoreapp3.1\day 6.pdb
+D:\OneDrive - Full Sail University\Visual Studios\Class labs\day 6\day 6\day 6\obj\Debug\netcoreapp3.1\day 6.genruntimeconfig.cache
